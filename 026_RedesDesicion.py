@@ -10,7 +10,7 @@ La función calcular_ganancia calcula la ganancia esperada de una alternativa
 basada en eventos buenos y malos, y tomar_decision selecciona la mejor
 alternativa entre dos basada en la ganancia esperada. Finalmente,
 en el ejemplo de uso, se crean sucesos y alternativas, y se toma una decisión
-entre dos alternativas.
+entre dos alternativas....
 """
 class Suceso:  # Define una clase llamada Suceso para representar un suceso en la red de decisión
     def __init__(self, probabilidad, buen_resultado, mal_resultado):  # Define el método de inicialización con probabilidad y resultados buenos y malos
