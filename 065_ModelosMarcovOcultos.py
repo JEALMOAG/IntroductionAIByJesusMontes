@@ -8,7 +8,7 @@ estados ocultos y observaciones futuras en una secuencia de datos.
 Se define un modelo HMM con una matriz de covarianza diagonal y dos estados
 ocultos. Luego, se entrena el modelo con una secuencia de observaciones y se
 realizan predicciones sobre los estados ocultos y las observaciones futuras.
-Los resultados de las predicciones se imprimen al final.
+Los resultados de las predicciones se imprimen al final..
 """
 import numpy as np
 from hmmlearn import hmm
